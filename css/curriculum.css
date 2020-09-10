@@ -1,0 +1,58 @@
+.curriculum {
+  display: flexbox;
+  justify-content: center;
+  align-items: center;
+  max-width: 60%;
+  margin-top: 5%;
+  margin-left: 20%;
+  margin-bottom: 5%;
+  color: #381063;
+}
+
+.curriculum .photo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.curriculum .photo img {
+  width: 10%;
+  margin-right: 20px;
+  border-radius: 25px;
+}
+
+.curriculum fieldset {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #381063;
+  border-radius: 25px;
+  margin-bottom: 15px;
+}
+
+.curriculum fieldset legend {
+  justify-self: center;
+  align-self: center;
+  border-radius: 25px;
+}
+
+.curriculum table {
+  width: 100%;
+}
+
+.curriculum table tr td:first-child {
+  width: 30%;
+}
+
+.curriculum table tr .contact {
+  width: 50%;
+}
+
+.curriculum a {
+  text-decoration: none;
+  transition: 0.5s;
+}
+
+.curriculum a:hover {
+  color: #A76BE8;
+}
