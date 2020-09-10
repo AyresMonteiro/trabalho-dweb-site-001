@@ -1,0 +1,13 @@
+.interests {
+  margin-top: 10%;
+  margin-left: 30%;
+  width: 40%;
+  color: #381063;
+  padding: 20px;
+  border: 1px solid #381063;
+  border-radius: 25px;
+}
+
+.interests p {
+  margin-bottom: 20px;
+}
