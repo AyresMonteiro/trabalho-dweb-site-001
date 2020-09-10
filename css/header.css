@@ -1,0 +1,25 @@
+.header {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header h1 {
+  padding: 10px;
+  color: #381063;
+}
+
+.header .navbar {
+  padding: 15px;
+  background-color: #8024E3;
+}
+
+.header .navbar a {
+  color: white;
+  padding-right: 10px;
+  text-decoration: none;
+  transition: 0.5s;
+}
+
+.header .navbar a:hover {
+  color: #A76BE8;
+  text-shadow: white;
+}
