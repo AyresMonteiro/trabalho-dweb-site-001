@@ -1,0 +1,44 @@
+.intro {
+  margin-left: 25%;
+  margin-top: 5%;
+  width: 50%;
+  justify-self: center;
+  align-self: center;
+  display: flex;
+  justify-content: center;
+  border: 1px solid #381063;
+  border-radius: 25px;
+  color: #381063;
+}
+
+.intro p {
+  width: 60%;
+  margin: 5%;
+  margin-top: 10%;
+}
+
+.intro .img {
+  margin: 5%;
+  width: 75%;
+}
+
+.intro .img img {
+  width: 100%;
+  border-radius: 25px;
+  margin-bottom: -10%;
+}
+
+.intro .img p {
+  width: 100%;
+  font-size: small;
+}
+
+.intro .img p a {
+  color: #381063;
+  text-decoration: none;
+  transition: 0.5s;
+}
+
+.intro .img p a:hover{
+  color: #8024E3;
+}
