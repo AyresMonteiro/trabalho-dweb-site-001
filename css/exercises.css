@@ -1,0 +1,25 @@
+.exercises {
+  margin-top: 10%;
+  margin-left: 18%;
+  width: 60%;
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: top;
+  color: #381063;
+  border: 1px solid #381063;
+  border-radius: 25px;
+
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.exercises a {
+  color: #381063;
+  text-decoration: none;
+  transition: 0.5s;
+}
+
+.exercises a:hover {
+  color: #A76BE8;
+}
